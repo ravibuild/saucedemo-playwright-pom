@@ -1,6 +1,6 @@
 import {RequiredPages} from '../tests/Pages';
 import {SiteUserInputDetails} from '../tests/Config';
-import {test,expect,Page} from '@playwright/test';
+import {test,expect} from '@playwright/test';
 
 
 test('LoginFunction',async({page})=>{

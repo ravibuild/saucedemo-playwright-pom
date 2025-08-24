@@ -1,4 +1,4 @@
-export class SiteUserInputDetails{
+export class SiteUserInputDetails{ 
 
     static BaseURL:any='https://www.saucedemo.com/'
     static Username:any='standard_user';
